@@ -1,2 +1,2 @@
 How to install and setup XAMPP
-"https://gist.github.com/JQL/580398f9b20305a8de2dac9fadf495c4.js"
+https://gist.github.com/JQL/580398f9b20305a8de2dac9fadf495c4
